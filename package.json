@@ -16,13 +16,13 @@
   "dependencies": {
     "@actual-app/api": "^26.2.0",
     "archiver": "^7.0.1",
+    "dotenv": "^16.3.1",
     "express": "^4.21.0",
     "js-yaml": "^4.1.0",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.1"
   },
   "devDependencies": {
-    "dotenv": "^16.3.1",
     "jest": "^30.2.0",
     "supertest": "^7.1.4"
   }
