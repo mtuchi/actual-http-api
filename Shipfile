@@ -1,0 +1,4 @@
+script: |
+  npm ci --production
+  npm run install
+run: node server.js --port 5007 --host 0.0.0.0 ⁠
