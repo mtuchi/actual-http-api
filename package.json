@@ -6,6 +6,7 @@
   "bin": "./server.js",
   "scripts": {
     "start": "node server.js",
+    "build": "npm ci --production",
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage"
